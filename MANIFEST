@@ -1,0 +1,9 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Local-gbifno.t
+lib/Local/gbifno.pm
+lib/Local/gbifno/latlon.pm
+lib/Local/gbifno/mgrs.pm
+lib/Local/gbifno/utm.pm

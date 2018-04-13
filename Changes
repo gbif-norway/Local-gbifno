@@ -1,0 +1,6 @@
+Revision history for Perl extension Local::gbifno.
+
+0.01  Fri Apr 13 11:53:49 2018
+	- original version; created by h2xs 1.23 with options
+		-AX Local::gbifno
+
